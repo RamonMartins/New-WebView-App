@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="NoConnected_title">No Internet</string>
+    <string name="NoConnected_summary" translatable="false">Swipe down when connected again.</string>
+</resources>

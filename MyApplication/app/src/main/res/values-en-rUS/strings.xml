@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="NoConnected_title">No Internet</string>
+    <string name="NoConnected_summary">Swipe down when connected again.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu Aplicativo</string>
+    <string name="action_settings" translatable="false">Configurações</string>
+    <string name="NoConnected_title">Sem Internet</string>
+    <string name="NoConnected_summary">Deslize para baixo quando estiver conectado novamente.</string>
+</resources>
